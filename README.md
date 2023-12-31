@@ -1,3 +1,1 @@
-아폴로니오스의 원 (Circle Of Apollonios)
-
-python package - matplotlib, sympy 이용
+"Circle Of Apollonius" python program using sympy and matplotlib package
